@@ -1,9 +1,9 @@
 img {
 	border: 1px solid;
-	left: 5%;
+	left: 8%;
 	right: 5%;
 	position: relative;
-	width: 30%;
+	width: 28%;
 	height: 250px;
 	margin-top: 5%;
 }
@@ -42,9 +42,9 @@ img {
 		background-color: green;
 	}
 	img {
-		width: 30%;
-		height: 100px;
-		left: 3%;
+		width: 80%;
+		height: 200px;
+		left: 10%;
 		position: relative;
 	}
 }
